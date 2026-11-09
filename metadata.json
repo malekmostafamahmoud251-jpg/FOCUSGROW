@@ -1,0 +1,6 @@
+{
+  "name": "Evergreen",
+  "description": "A gamified focus timer and productivity app turning focused time into a thriving virtual forest.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
